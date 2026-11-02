@@ -1,0 +1,6 @@
+@Rafiq_HostAddress = http://localhost:5030
+
+GET {{Rafiq_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
